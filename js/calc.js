@@ -1,7 +1,7 @@
 "use strict";
 
 document.getElementById("nameId").textContent =
-  "Yi-Ta Chen / CT1008844 0829 - after link to firebase";
+  "Yi-Ta Chen / CT1008844 0829 - after link to firebase second";
 
 //Dynamic background color change
 const color = [
